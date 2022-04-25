@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariia</h1>
 <h3 align="center">I am currently studying Fullstack Web Development at Helsinki Business College.</h3>
 
-- 🌱 I’m currently learning **React, PHP, Symfony, MySQL**
+- 🌱 I’m currently learning **React, PHP, Symfony and MySQL**
 
 - 📄 Here you can learn more about my previous experience [https://www.linkedin.com/in/maria-beskova/](https://www.linkedin.com/in/maria-beskova/)
 
