@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mariia</h1>
+<h1 align="center">Hi, I'm Mariia</h1>
 <h3 align="center">I am currently studying Fullstack Web Development at Helsinki Business College.</h3>
 
 - 🌱 I’m currently learning **React, PHP, Symfony and MySQL**
