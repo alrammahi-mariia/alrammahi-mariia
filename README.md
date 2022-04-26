@@ -3,7 +3,7 @@
 
 - 🌱 I’m learning **React, PHP, Symfony and MySQL**
 
-- 📄 Here you can learn more about my previous experience [https://www.linkedin.com/in/maria-beskova/](https://www.linkedin.com/in/maria-beskova/)
+- 📄 Here you can see more about my previous experience [https://www.linkedin.com/in/maria-beskova/](https://www.linkedin.com/in/maria-beskova/)
 
 
 <h3 align="left">Languages and Tools:</h3>
