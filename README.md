@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mariia</h1>
 <h3 align="center">I am currently studying Fullstack Web Development at Helsinki Business College.</h3>
 
-- 🌱 I’m learning **React, PHP, Symfony and MySQL**
+- 🌱 I’m learning **Drupal, React, PHP, Symfony and MySQL**
 
 
 <h3 align="left">Languages and Tools:</h3>
